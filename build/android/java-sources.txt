@@ -1,0 +1,7 @@
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/com/packtpub/ProgAssign4/ApplicationStylesheet.java"
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/com/packtpub/ProgAssign4/ProgrammingAssignment4Activity.java"
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/com/packtpub/ProgAssign4/ProgrammingAssignment4AppInfo.java"
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/com/packtpub/ProgAssign4/ProgrammingAssignment4Application.java"
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/com/packtpub/ProgAssign4/R.java"
+"/Users/Williams/Documents/Titanium_Studio_Workspace/Programming Assignment 4/build/android/gen/ti/modules/titanium/ui/R.java"
